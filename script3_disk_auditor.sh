@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Sahil Gautam | Reg: 24BSA10184
+# Author: Mridul singh | Reg: 24BSA10366
 # Course: Open Source Software
 # Purpose: Audit permissions and disk usage of key system directories
 
