@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Sahil Gautam | Reg: 24BSA10184
+# Author: Mridul singh | Reg: 24BSA10366
 # Course: Open Source Software
 # Purpose: Generate a personalised open-source philosophy statement
 
