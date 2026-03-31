@@ -47,7 +47,7 @@ accountable to everyone who depends on it.
 
 This is my commitment to that foundation.
 
--- Sahil Gautam| $DATE"
+-- Mridul singh | $DATE"
 
 # --- Write manifesto to output file using > (overwrite) ---
 echo "$MANIFESTO" > "$OUTPUT"
