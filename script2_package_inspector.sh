@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Sahil Gautam | Reg: 24BSA10184
+# Author: Mridul singh | Reg: 24BSA10366
 # Course: Open Source Software
 # Usage: ./script2_package_inspector.sh [packagename]
 # Purpose: Check if a FOSS package is installed and display its info
