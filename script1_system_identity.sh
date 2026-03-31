@@ -1,12 +1,12 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Sahil Gautam | Reg: 24BSA10184
+# Author: Mridul singh | Reg: 24BSA10366 |
 # Course: Open Source Software
 # Purpose: Display key system information as a welcome/audit screen
 
 # --- Student and project variables ---
-STUDENT_NAME="Sahil Gautam"
-REG_NUMBER="24BSA10184"
+STUDENT_NAME="Mridul singh"
+REG_NUMBER="24BSA10366"
 SOFTWARE_CHOICE="Git"
 SOFTWARE_LICENSE="GNU General Public License v2 (GPL v2)"
 
