@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Mridul singh | Reg: 24BSA10366 |
+# Author: Mridul singh | Reg: 24BSA10366 
 # Course: Open Source Software
 # Usage: ./script4_log_analyzer.sh /var/log/syslog [keyword]
 # Purpose: Count keyword occurrences in a log file and show matches
